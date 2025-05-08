@@ -1,16 +1,72 @@
 [
     {
     "id": 1,
-    "title": "The Great Gatsby",
+    "title": "A New Hope",
     "author": "F. Scott Fitzgerald",
-    "genre": "Classic",
+    "genre": "Action / Adventure",
     "available": true
     },
     {
     "id": 2,
-    "title": "To Kill a Mockingbird",
-    "author": "Harper Lee",
-    "genre": "Fiction",
+    "title": "Interstellar",
+    "author": "Wes Christopher Nolan",
+    "genre": "Sci-fi / Adventure",
+    "available": true
+    },
+    {
+    "id": 3,
+    "title": "3 Idiots",
+    "author": "Rajkumar Hirani",
+    "genre": "Action / Adventure",
+    "available": true
+    },
+    {
+    "id": 4,
+    "title": "The Princess and the Frog",
+    "author": "John Muskar",
+    "genre": "Horror / Mystery",
     "available": false
+    },    
+    {
+    "id": 5,
+    "title": "Avatar",
+    "author": "James Cameron",
+    "genre": "Sci-fi / Action",
+    "available": true
+    },
+    {
+    "id": 6,
+    "title": "Scream",
+    "author": "Wes Craven",
+    "genre": "Horror / Mystery",
+    "available": false
+    },
+    {
+    "id": 7,
+    "title": "Forrest Gump",
+    "author": "Robert Zemeckis",
+    "genre": "Comedy / Romance",
+    "available": false
+    },
+    {
+    "id": 8,
+    "title": "Hacksaw Ridge",
+    "author": "Mel Gibson",
+    "genre": "War / Drama",
+    "available": false
+    },
+    {
+    "id": 9,
+    "title": "The Dark Knight",
+    "author": "Christopher Nolan",
+    "genre": "Action / Crime",
+    "available": true
+    },
+    {
+    "id": 10,
+    "title": "Avengers: Endgame",
+    "author": "Russo Brothers",
+    "genre": "Action / Sci-fi",
+    "available": true
     }
 ]
